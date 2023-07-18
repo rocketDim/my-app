@@ -11,21 +11,7 @@
   gap: 10px;
 }
 
-.header {
-  grid-area: header;
-  background-color: rgb(22, 22, 156);
-}
-
-.header img {
-  width: 80px;
-}
-
-.nav {
-  grid-area: navigation;
-  background-color: rgb(22, 22, 156);
-}
-
-.content {
+.app-wrapper-content {
   grid-area: cont;
   background-color: rgb(220, 171, 108);
 }
