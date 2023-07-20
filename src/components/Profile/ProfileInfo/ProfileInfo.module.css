@@ -1,4 +1,8 @@
-.content {
-    grid-area: cont;
-    background-color: rgb(220, 171, 108);
+img {
+    width: 1000px;
+
+}
+
+.descriptionBlock {
+    padding: 10px;
 }
